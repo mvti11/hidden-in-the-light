@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="try1"
+config/name="hidde in the light"
 run/main_scene="uid://cwlsh4gnus3nt"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
